@@ -1,8 +1,8 @@
 namespace Calculadora
 {
-    public partial class Form1 : Form
+    public partial class Carregando : Form
     {
-        public Form1()
+        public Carregando()
         {
             InitializeComponent();
         }
